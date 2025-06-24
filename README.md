@@ -1,7 +1,10 @@
 ## Evolve Nuker
-Evolve, fastest nuker of 2025 in Py.
+Evolve, fastest nuker of 2025 Written In Python.
 
 ## Disclaimer
+This project is provided for educational purposes only. Use responsibly.
+
+
 
 ## Credits
 This Is Not A Skid Because I Gave Credits To .darks4.sure. I Upgraded Hellium Nuker And Solved Some Bugs.
